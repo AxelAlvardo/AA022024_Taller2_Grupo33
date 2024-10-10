@@ -130,7 +130,7 @@ int main()
         cout << "Menu:\n";
         cout << "1. Ver salarios\n";
         cout << "2. Salir de la aplicacion\n";
-        cout << "Seleccione una opción: ";
+        cout << "Seleccione una opcion: ";
         cin >> opcion;
         cout << "---------------------------\n";
 
